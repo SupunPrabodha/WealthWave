@@ -62,24 +62,24 @@ To run the WealthWave app on your device or emulator, follow these steps:
 3. Launch Android Studio and select Open an existing project.
 4. Navigate to the cloned WealthWave directory and select it.
 5. Sync Project
-- Click Sync Project with Gradle Files to download dependencies.
-- Ensure you have an active internet connection for Gradle to resolve dependencies.
+  - Click Sync Project with Gradle Files to download dependencies.
+  - Ensure you have an active internet connection for Gradle to resolve dependencies.
 6. Configure Emulator or Device
-- **Emulator**: Set up an Android Virtual Device (AVD) with API level 21 or higher.
-- **Physical Device**: Enable Developer Options and USB Debugging on your Android device, then connect it via USB.
+  - **Emulator**: Set up an Android Virtual Device (AVD) with API level 21 or higher.
+  - **Physical Device**: Enable Developer Options and USB Debugging on your Android device, then connect it via USB.
 7. **Run the App**
 8. Select your target device/emulator from the device dropdown in Android Studio.
 9. Click the Run button (green play icon) to build and install the app.
 10. Grant Permissions
-- The app may request permissions for notifications and storage. Grant these permissions to enable backup/restore and push notification features.
+  - The app may request permissions for notifications and storage. Grant these permissions to enable backup/restore and push notification features.
 11. Explore the App
-- Launch the app, set your monthly budget, add transactions, and explore features like spending analysis, dark theme, and backup/restore.
+  - Launch the app, set your monthly budget, add transactions, and explore features like spending analysis, dark theme, and backup/restore.
 
 ## Build and Run Notes
 
-Ensure the minSdkVersion in app/build.gradle is set to 21 or higher.
-If you encounter build issues, try File > Invalidate Caches / Restart in Android Studio.
-For backup/restore, ensure the device/emulator has sufficient internal storage.
+- Ensure the minSdkVersion in app/build.gradle is set to 21 or higher.
+- If you encounter build issues, try File > Invalidate Caches / Restart in Android Studio.
+- For **backup/restore**, ensure the device/emulator has sufficient internal storage.
 
 ## Project Structure
 
@@ -88,5 +88,25 @@ For backup/restore, ensure the device/emulator has sufficient internal storage.
 `app/src/main/res/values/`: Resource files for strings, colors, and themes (including dark theme support).
 `app/build.gradle`: Gradle configuration for dependencies and build settings.
 
-## Evaluation Criteria
-The **WealthWave** app was developed to meet the following evaluation criteria:
+
+## Screenshots
+
+
+## Contributing
+This project was developed as part of a coursework assignment. Contributions are welcome for bug fixes or additional features. To contribute:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit (`git commit -m "Add feature"`).
+4. Push to your branch (`git push origin feature-branch`).
+5. Create a pull request.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+- Faculty of Computing, SLIIT, for providing the project guidelines and evaluation criteria.
+- Android Developer Documentation for Kotlin and XML best practices.
+- Open-source libraries used in the project (listed in `app/build.gradle`).
+
+## Contact
+For inquiries or feedback, contact the project maintainer at [supunprabodha@gmail.com] or via GitHub issues.
