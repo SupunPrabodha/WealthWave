@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Color - Teal -->
+    <color name="primary_color">#83C5BE</color>
+    <color name="primary_variant">#006D77</color>
+    <color name="primary_light">#2D3436</color>
+    
+    <!-- Secondary Color -->
+    <color name="secondary_color">#E29578</color>
+    <color name="secondary_variant">#FFDDD2</color>
+    
+    <!-- Accent Color -->
+    <color name="accent_color">#EDF6F9</color>
+    
+    <!-- Standard Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#9E9E9E</color>
+    
+    <!-- Status Bar Colors -->
+    <color name="statusBarColor">#1A1A1A</color>
+
+    <!-- Additional Colors -->
+    <color name="textMain">#F5F5F5</color>
+    <color name="green">#66BB6A</color>
+    <color name="red">#EF5350</color>
+
+    <!-- Dark Theme Specific -->
+    <color name="background_color">#121212</color>
+    <color name="surface_color">#242424</color>
+    <color name="card_background">#2C2C2C</color>
+</resources> 

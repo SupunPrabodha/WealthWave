@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 60% Primary Color - Teal -->
+    <color name="primary_color">#006D77</color>
+    <color name="primary_variant">#83C5BE</color>
+    <color name="primary_light">#EDF6F9</color>
+    
+    <!-- 30% Secondary Color - Light Gray -->
+    <color name="secondary_color">#FFDDD2</color>
+    <color name="secondary_variant">#E29578</color>
+    
+    <!-- 10% Accent Color - Dark -->
+    <color name="accent_color">#2C3333</color>
+    
+    <!-- Standard Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#888888</color>
+    
+    <!-- Status Bar Colors -->
+    <color name="statusBarColor">@color/primary_color</color>
+
+    <!-- Additional Colors -->
+    <color name="textMain">#474747</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+</resources>

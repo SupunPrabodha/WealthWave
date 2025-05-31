@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Mad3" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary_color</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/statusBarColor</item>
+        
+        <!-- Background colors -->
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="colorOnSurface">@color/white</item>
+        
+        <!-- Text colors -->
+        <item name="android:textColor">@color/textMain</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/gray</item>
+        
+        <!-- Card colors -->
+        <item name="cardBackgroundColor">@color/card_background</item>
+
+        <!-- Text Input Layout colors -->
+        <item name="textInputStyle">@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox</item>
+        <item name="colorControlActivated">@color/primary_color</item>
+        <item name="colorControlNormal">@color/gray</item>
+        <item name="editTextColor">@color/textMain</item>
+        <item name="android:editTextColor">@color/textMain</item>
+        <item name="hintTextColor">@color/primary_color</item>
+    </style>
+</resources>
