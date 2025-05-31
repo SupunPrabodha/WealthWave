@@ -83,10 +83,10 @@ To run the WealthWave app on your device or emulator, follow these steps:
 
 ## Project Structure
 
-`app/src/main/java/`: Contains Kotlin source code for app logic, including activities, fragments, and utility classes.
-`app/src/main/res/layout/`: XML layout files for the user interface.
-`app/src/main/res/values/`: Resource files for strings, colors, and themes (including dark theme support).
-`app/build.gradle`: Gradle configuration for dependencies and build settings.
+- `app/src/main/java/`: Contains Kotlin source code for app logic, including activities, fragments, and utility classes.
+- `app/src/main/res/layout/`: XML layout files for the user interface.
+- `app/src/main/res/values/`: Resource files for strings, colors, and themes (including dark theme support).
+- `app/build.gradle`: Gradle configuration for dependencies and build settings.
 
 
 ## Screenshots
