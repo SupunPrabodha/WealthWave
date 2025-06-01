@@ -88,19 +88,10 @@ To run the WealthWave app on your device or emulator, follow these steps:
 - `app/src/main/res/values/`: Resource files for strings, colors, and themes (including dark theme support).
 - `app/build.gradle`: Gradle configuration for dependencies and build settings.
 
-
 ## Screenshots
-![Screenshot_20250531_194003](https://github.com/user-attachments/assets/87177956-2b22-4885-babe-ca1c318abd97)
-![Screenshot_20250531_193935](https://github.com/user-attachments/assets/b4c632f0-2acd-49c1-9969-be8e38a70023)
-![Screenshot_20250531_193926](https://github.com/user-attachments/assets/4d2099f6-4fa5-4b94-98ec-05a1fc4e7e11)
-![Screenshot_20250531_193836](https://github.com/user-attachments/assets/e4d97afd-074d-40bc-a40e-651674ed5e44)
-![Screenshot_20250531_193828](https://github.com/user-attachments/assets/2884a1a3-642c-430e-a805-7c08685eaa35)
-![Screenshot_20250531_193821](https://github.com/user-attachments/assets/61ffbd5d-aa8c-4da3-a1c7-f76f4d919ea3)
-![Screenshot_20250531_193814](https://github.com/user-attachments/assets/3c7223a7-a1f1-470c-93f4-ab640f229bb7)
-![Screenshot_20250531_193755](https://github.com/user-attachments/assets/a3911cd3-2238-47d0-b773-5ab8bcf38a13)
-![Screenshot_20250531_194551](https://github.com/user-attachments/assets/9eadbac0-9175-497b-b102-4b36dceb67a1)
-![Screenshot_20250531_194020](https://github.com/user-attachments/assets/085d65d6-77a5-442f-b2dd-1c5e1f69d506)
-
+![1](https://github.com/user-attachments/assets/115d4574-c7bf-407f-a95f-17814054aba2)
+![2](https://github.com/user-attachments/assets/d2300d87-5b0b-465e-9804-fe8a5cc9d2af)
+![3](https://github.com/user-attachments/assets/ad704939-85b5-4de1-bbbb-f3ae2be7bae2)
 
 ## Contributing
 This project was developed as part of a coursework assignment. Contributions are welcome for bug fixes or additional features. To contribute:
